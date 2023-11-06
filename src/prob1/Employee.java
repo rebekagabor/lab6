@@ -1,3 +1,5 @@
+package prob1;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 class Employee

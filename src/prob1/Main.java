@@ -1,3 +1,5 @@
+package prob1;
+
 import java.util.Scanner;
 import java.util.ArrayList;
 public class Main{
